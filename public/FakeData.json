@@ -1,0 +1,162 @@
+[
+    {
+        "playerId": 1,
+        "name": "Virat Kohli",
+        "country": "India",
+        "image": "../img/cricket-match-with-player.jpg",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm medium",
+        "biddingPrice": 150
+    },
+    {
+        "playerId": 2,
+        "name": "Joe Root",
+        "country": "England",
+        "image": "../img/portrait-person-playing-cricket-sport.jpg",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": 400
+    },
+    {
+        "playerId": 3,
+        "name": "Mitchell Starc",
+        "country": "Australia",
+        "image": "../img/ima1s.jpeg",
+        "role": "Bowler",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Left-arm fast",
+        "biddingPrice": 110
+    },
+    {
+        "playerId": 4,
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "image": "..//img/imag13.jpeg",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": 140
+    },
+    {
+        "playerId": 5,
+        "name": "Jasprit Bumrah",
+        "country": "India",
+        "image": "../img/imags2.jpeg",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm fast",
+        "biddingPrice": 160
+    },
+    {
+        "playerId": 6,
+        "name": "Babar Azam",
+        "country": "Pakistan",
+        "image": "..//img/images4.jpeg",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": 145
+    },
+    {
+        "playerId": 7,
+        "name": "Ben Stokes",
+        "country": "England",
+        "image": "../img/image5.jpeg",
+        "role": "All-rounder",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Right-arm medium-fast",
+        "biddingPrice": 170
+    },
+    {
+        "playerId": 8,
+        "name": "Rashid Khan",
+        "country": "Afghanistan",
+        "image": "../img/image6.jpeg",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm legbreak",
+        "biddingPrice": 198
+    },
+    {
+        "playerId": 9,
+        "name": "Quinton de Kock",
+        "country": "South Africa",
+        "image": "../img/imags7.jpeg",
+        "role": "Wicketkeeper",
+        "battingType": "Left-hand bat",
+        "bowlingType": "None",
+        "biddingPrice": 135
+    },
+    {
+        "playerId": 10,
+        "name": "Trent Boult",
+        "country": "New Zealand",
+        "image": "../img/imags8.jpeg",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Left-arm fast-medium",
+        "biddingPrice": 118
+    },
+    {
+        "playerId": 11,
+        "name": "Glenn Maxwell",
+        "country": "Australia",
+        "image": "..//img/imags10.jpeg",
+        "role": "All-rounder",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": 155
+    },
+    {
+        "playerId": 12,
+        "name": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "image": "..//img/imags11.jpeg",
+        "role": "All-rounder",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Left-arm orthodox",
+        "biddingPrice": 120
+    },
+    {
+        "playerId": 13,
+        "name": "KL Rahul",
+        "country": "India",
+        "image": "../img/imag12.jpeg",
+        "role": "Wicketkeeper",
+        "battingType": "Right-hand bat",
+        "bowlingType": "None",
+        "biddingPrice": 157
+    },
+    {
+        "playerId": 14,
+        "name": "David Warner",
+        "country": "Australia",
+        "image": "../img/imag13.jpeg",
+        "role": "Batsman",
+        "battingType": "Left-hand bat",
+        "bowlingType": "None",
+        "biddingPrice": 399
+    },
+    {
+        "playerId": 15,
+        "name": "Mohammad Nabi",
+        "country": "Afghanistan",
+        "image": "../img/imag14.jpeg",
+        "role": "All-rounder",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": 111
+    },
+    {
+        "playerId": 15,
+        "name": "Mohammad Nabi",
+        "country": "Afghanistan",
+        "image": "../img/imag12.jpeg",
+        "role": "All-rounder",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": 111
+    }
+]
